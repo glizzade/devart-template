@@ -1,12 +1,12 @@
-# Project Title
-Insert the name of your project
+# MuralBot
 
-## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+
+## Author
+Glade William Blake Wittwer, Mister, glizzade
+
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The MuralBot is an fundamentally a large format printer, capable of printing on walls, eventually buildings, etc.  My motivation in creating this project is a fascination with the marriage of old and new media.  Once the device is working in the physical sense, its output is limited only by the imagination and programming prowess of those providing it with input.  The MuralBot could paint image files, mathematically described patterns, sensor-driven output, data-driven imagery harvested from the internet, or any hybridization of of any of these ideas.  As cerebral as all that sounds, the output of the MuralBot is immediately accessible to anyone in one of the most ancient artforms known to man.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
